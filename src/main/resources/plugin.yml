@@ -1,0 +1,6 @@
+name: MMenu
+version: ${project.version}
+main: org.mplugins.mmenu.MMenu
+api-version: 1.17
+authors: [ MPlugins ]
+website: https://mplugins.org
